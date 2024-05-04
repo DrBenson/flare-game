@@ -40,6 +40,7 @@ text=Błażej Pęksyk
 text=bzt
 text=David Bell
 text=Diego J. Romero López
+text=DrBenson (白博士)
 text=Elias Nykrem
 text=Eric R
 text=Eugenio Martínez Seguín

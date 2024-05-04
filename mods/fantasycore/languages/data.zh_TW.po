@@ -1,10 +1,12 @@
 # Copyright (C) 2011 Clint Bellanger
 # This file is distributed under the same license as the FLARE package.
-# 
+#
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 白博士 <Benson.Dr@GMail.com>, 2024
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Flare - Fantasycore. (v1.14)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-29 09:45+\n"
 "PO-Revision-Date: 2018-03-28 19:34+0000\n"
@@ -14,299 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh_TW\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: zh_TW\n"
+"X-Source-Language: en_US\n"
 
 #: ../items/types.txt:5
 msgid "Main Hand"
-msgstr ""
+msgstr "右手"
 
 #: ../items/types.txt:9
 msgid "Off Hand"
-msgstr ""
+msgstr "左手"
 
 #: ../items/types.txt:13
 msgid "Head"
-msgstr ""
+msgstr "頭部"
 
 #: ../items/types.txt:17
 msgid "Torso"
-msgstr ""
+msgstr "軀幹"
 
 #: ../items/types.txt:21
 msgid "Hands"
-msgstr ""
+msgstr "手部"
 
 #: ../items/types.txt:25
 msgid "Legs"
-msgstr ""
+msgstr "腿部"
 
 #: ../items/types.txt:29
 msgid "Feet"
-msgstr ""
+msgstr "足部"
 
 #: ../items/types.txt:33
 msgid "Artifact"
-msgstr ""
+msgstr "飾物"
 
 #: ../items/types.txt:37
 msgid "Ring"
-msgstr ""
+msgstr "戒指"
 
 #: ../items/types.txt:43
 msgid "Consumable"
-msgstr ""
+msgstr "一次性物品"
 
 #: ../items/types.txt:47
 msgid "Gem"
-msgstr ""
+msgstr "寶石"
 
 #: ../items/types.txt:51
 msgid "Key"
-msgstr ""
+msgstr "鑰匙"
 
 #: ../items/types.txt:55
 msgid "Book"
-msgstr ""
+msgstr "書"
 
 #: ../items/qualities.txt:3
 msgid "Low"
-msgstr ""
+msgstr "低"
 
 #: ../items/qualities.txt:9
 msgid "Normal"
-msgstr ""
+msgstr "一般"
 
 #: ../items/qualities.txt:15
 msgid "High"
-msgstr ""
+msgstr "高"
 
 #: ../items/qualities.txt:21
 msgid "Epic"
-msgstr ""
+msgstr "史詩"
 
 #: ../items/qualities.txt:27
 msgid "Rare"
-msgstr ""
+msgstr "稀有"
 
 #: ../items/qualities.txt:33
 msgid "Unique"
-msgstr ""
+msgstr "獨特"
 
 #: ../items/qualities.txt:39
 msgid "One-time Use"
-msgstr ""
+msgstr "一次性"
 
 #: ../items/qualities.txt:45
 msgid "Currency"
-msgstr ""
+msgstr "貨幣"
 
 #: ../engine/loot.txt:14
 msgid "Gold"
-msgstr ""
+msgstr "金幣"
 
 #: ../engine/hero_options.txt:7
 msgid "Delrek"
-msgstr ""
+msgstr "德瑞克"
 
 #: ../engine/hero_options.txt:8
 msgid "Anthem"
-msgstr ""
+msgstr "聖歌"
 
 #: ../engine/hero_options.txt:9
 msgid "Kuroko"
-msgstr ""
+msgstr "柯羅科"
 
 #: ../engine/hero_options.txt:10
 msgid "Silus"
-msgstr ""
+msgstr "西勒斯"
 
 #: ../engine/hero_options.txt:11
 msgid "Wardell"
-msgstr ""
+msgstr "典獄官"
 
 #: ../engine/hero_options.txt:12
 msgid "Meck"
-msgstr ""
+msgstr "梅克"
 
 #: ../engine/hero_options.txt:13
 msgid "Jereth"
-msgstr ""
+msgstr "傑雷斯"
 
 #: ../engine/hero_options.txt:14
 msgid "Ecnerwal"
-msgstr ""
+msgstr "艾克內瓦爾"
 
 #: ../engine/hero_options.txt:15
 msgid "Chane"
-msgstr ""
+msgstr "查內"
 
 #: ../engine/hero_options.txt:16
 msgid "Esteban"
-msgstr ""
+msgstr "艾斯特班"
 
 #: ../engine/hero_options.txt:17
 msgid "Kelen"
-msgstr ""
+msgstr "凱倫"
 
 #: ../engine/hero_options.txt:18
 msgid "Jochanan"
-msgstr ""
+msgstr "尤莰楠"
 
 #: ../engine/hero_options.txt:19
 msgid "Ichijo"
-msgstr ""
+msgstr "夷祈喬"
 
 #: ../engine/hero_options.txt:20
 msgid "Torwald"
-msgstr ""
+msgstr "突岩"
 
 #: ../engine/hero_options.txt:21
 msgid "Rudyard"
-msgstr ""
+msgstr "拉德亞"
 
 #: ../engine/hero_options.txt:22
 msgid "Gryphon"
-msgstr ""
+msgstr "獅鷲"
 
 #: ../engine/hero_options.txt:23
 msgid "Percival"
-msgstr ""
+msgstr "珀西瓦"
 
 #: ../engine/hero_options.txt:24
 msgid "Eldmoor"
-msgstr ""
+msgstr "艾德摩爾"
 
 #: ../engine/hero_options.txt:25
 msgid "Lott"
-msgstr ""
+msgstr "洛特"
 
 #: ../engine/hero_options.txt:26
 msgid "Respute"
-msgstr ""
+msgstr "問候"
 
 #: ../engine/hero_options.txt:28
 msgid "Elise"
-msgstr ""
+msgstr "愛麗絲"
 
 #: ../engine/hero_options.txt:29
 msgid "River"
-msgstr ""
+msgstr "河道"
 
 #: ../engine/hero_options.txt:30
 msgid "Nital"
-msgstr ""
+msgstr "妮塔"
 
 #: ../engine/hero_options.txt:31
 msgid "Karyli"
-msgstr ""
+msgstr "卡里利"
 
 #: ../engine/hero_options.txt:32
 msgid "Venka"
-msgstr ""
+msgstr "范卡"
 
 #: ../engine/hero_options.txt:33
 msgid "Mikal"
-msgstr ""
+msgstr "米可"
 
 #: ../engine/hero_options.txt:34
 msgid "Hira"
-msgstr ""
+msgstr "希拉"
 
 #: ../engine/hero_options.txt:35
 msgid "Blynn"
-msgstr ""
+msgstr "布林"
 
 #: ../engine/hero_options.txt:36
 msgid "Ashdara"
-msgstr ""
+msgstr "阿什達拉"
 
 #: ../engine/hero_options.txt:37
 msgid "Calyss"
-msgstr ""
+msgstr "卡利斯"
 
 #: ../engine/hero_options.txt:38
 msgid "Zeldyn"
-msgstr ""
+msgstr "查爾登"
 
 #: ../engine/hero_options.txt:39
 msgid "Malia"
-msgstr ""
+msgstr "瑪麗亞"
 
 #: ../engine/hero_options.txt:40
 msgid "Ayah"
-msgstr ""
+msgstr "艾亞"
 
 #: ../engine/hero_options.txt:41
 msgid "Gywn"
-msgstr ""
+msgstr "蓋恩"
 
 #: ../engine/hero_options.txt:42
 msgid "Sonia"
-msgstr ""
+msgstr "索妮亞"
 
 #: ../engine/equip_flags.txt:5
 msgid "melee weapon"
-msgstr ""
+msgstr "近戰武器"
 
 #: ../engine/equip_flags.txt:9
 msgid "ranged weapon"
-msgstr ""
+msgstr "遠射武器"
 
 #: ../engine/equip_flags.txt:13
 msgid "mental weapon"
-msgstr ""
+msgstr "魔法武器"
 
 #: ../engine/equip_flags.txt:17
 msgid "shield"
-msgstr ""
+msgstr "盾牌"
 
 #: ../engine/equip_flags.txt:21
 msgid "slingshot"
-msgstr ""
+msgstr "彈弓"
 
 #: ../engine/equip_flags.txt:25
 msgid "bow"
-msgstr ""
+msgstr "弓"
 
 #: ../soundfx/subtitles.txt:11
 msgid "Take a look around."
-msgstr ""
+msgstr "到附近看看."
 
 #: ../soundfx/subtitles.txt:15
 msgid "Looking to buy something?"
-msgstr ""
+msgstr "看看想要買點什麼?"
 
 #: ../soundfx/subtitles.txt:19
 msgid "How can I help you?"
-msgstr ""
+msgstr "請問您需要什麼?"
 
 #: ../soundfx/subtitles.txt:23
 msgid "Let's trade."
-msgstr ""
+msgstr "我們做個交易吧."
 
+#: ../cutscenes/intro.txt:7 ../cutscenes/intro.txt:10
 #: ../cutscenes/credits.txt:7
 msgid "Flare Game Credits - fantasycore"
-msgstr ""
+msgstr "榮耀火炬(Flare) 遊戲歸功於 - 夢幻核心遊戲引擎(fantasycore)"
 
 #: ../cutscenes/credits.txt:10
 msgid "Lead Visual Artists"
-msgstr ""
+msgstr "首席視訊效果處理"
 
 #: ../cutscenes/credits.txt:16
 msgid "Visual Artists"
-msgstr ""
+msgstr "視訊效果處理"
 
 #: ../cutscenes/credits.txt:25
 msgid "Composers"
-msgstr ""
+msgstr "作曲"
 
 #: ../cutscenes/credits.txt:31
 msgid "Foley Artists"
-msgstr ""
+msgstr "音效處理"
 
 #: ../cutscenes/credits.txt:38
 msgid "Voice Actors"
-msgstr ""
+msgstr "配音"
 
 #: ../cutscenes/credits.txt:44
 msgid "Translators"
-msgstr ""
+msgstr "翻譯"
